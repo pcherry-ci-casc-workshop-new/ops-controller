@@ -1,5 +1,5 @@
 apiVersion: "1"
-version: "4"
+version: "5"
 id: "pcherry-ci-casc-workshop-new-ops-controller"
 description: "CloudBees CI configuration bundle for the pcherry-ci-casc-workshop-new ops-controller Controller"
 parent: "base"
